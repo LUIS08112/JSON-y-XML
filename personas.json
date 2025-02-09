@@ -1,0 +1,186 @@
+{
+    "personas": [
+      {
+        "id": 1,
+        "nombre": "Juan Pérez",
+        "edad": 30,
+        "fecha_nacimiento": "1993-05-14",
+        "activo": true,
+        "altura": 1.75,
+        "peso": 70.5,
+        "direccion": {
+          "calle": "Av. Siempre Viva",
+          "numero": 742,
+          "ciudad": "Chicago",
+          "pais": "EE.UU."
+        },
+        "telefonos": [
+          {
+            "tipo": "móvil",
+            "numero": "555-6971"
+          },
+          {
+            "tipo": "casa",
+            "numero": "878-544"
+          }
+        ],
+        "hobbies": ["lectura", "ciclismo", "ajedrez"],
+        "profesion": "Ingeniero"
+      },
+
+      {
+        "id": 2,
+        "nombre": "María López",
+        "edad": 28,
+        "fecha_nacimiento": "1995-09-22",
+        "activo": false,
+        "altura": 1.62,
+        "peso": 60.3,
+        "direccion": {
+          "calle": "Calle 4 de julio",
+          "numero": 123,
+          "ciudad": "Ciudad de México",
+          "pais": "México"
+        },
+        "telefonos": [
+          {
+            "tipo": "móvil",
+            "numero": "555-6935"
+          }
+        ],
+        "hobbies": ["pintura", "natación"],
+        "idiomas": ["español", "inglés"]
+      },
+
+      {
+        "id": 3,
+        "nombre": "Carlos Ramírez",
+        "edad": 35,
+        "fecha_nacimiento": "1988-07-10",
+        "activo": true,
+        "altura": 1.80,
+        "peso": 85.0,
+        "direccion": {
+          "calle": "Av. Principal",
+          "numero": 456,
+          "ciudad": "Bogotá",
+          "pais": "Colombia"
+        },
+        "telefonos": [
+          {
+            "tipo": "móvil",
+            "numero": "5998-6635"
+          }
+        ],
+        "hobbies": ["fútbol", "videojuegos"],
+        "casado": false
+      },
+
+      {
+        "id": 4,
+        "nombre": "Laura Sánchez",
+        "edad": 40,
+        "fecha_nacimiento": "1983-03-25",
+        "activo": true,
+        "direccion": {
+          "calle": "Calle Juarez",
+          "numero": 789,
+          "ciudad": "Madrid",
+          "pais": "España"
+        },
+        "telefonos": [
+          {
+            "tipo": "móvil",
+            "numero": "+98989-65656"
+          }
+        ],
+        "profesion": "Doctora",
+        "especialidad": "Pediatría"
+      },
+
+      {
+        "id": 5,
+        "nombre": "Pedro Gómez",
+        "edad": 27,
+        "fecha_nacimiento": "1996-11-11",
+        "activo": false,
+        "altura": 1.70,
+        "direccion": {
+          "calle": "Av. Central",
+          "numero": 222,
+          "ciudad": "Buenos Aires",
+          "pais": "Argentina"
+        },
+        "telefonos": [],
+        "hobbies": ["guitarra", "senderismo"]
+      },
+
+      {
+        "id": 6,
+        "nombre": "Ana Torres",
+        "edad": 32,
+        "fecha_nacimiento": "1991-06-18",
+        "activo": true,
+        "peso": 68.0,
+        "direccion": {
+          "calle": "Calle Nueva",
+          "numero": 55,
+          "ciudad": "Lima",
+          "pais": "Perú"
+        },
+        "telefonos": [
+          {
+            "tipo": "móvil",
+            "numero": "212121-56"
+          }
+        ],
+        "idiomas": ["español", "francés"]
+      },
+
+      {
+        "id": 7,
+        "nombre": "David Fernández",
+        "edad": 45,
+        "fecha_nacimiento": "1978-02-09",
+        "activo": false,
+        "altura": 1.85,
+        "peso": 90.0,
+        "direccion": {
+          "calle": "Calle Sur",
+          "numero": 101,
+          "ciudad": "Quito",
+          "pais": "Ecuador"
+        },
+        "telefonos": [
+          {
+            "tipo": "casa",
+            "numero": "4545-6565"
+          }
+        ],
+        "hobbies": ["fotografía", "pesca"]
+      },
+
+      {
+        "id": 8,
+        "nombre": "Sofía Méndez",
+        "edad": 26,
+        "fecha_nacimiento": "1997-12-30",
+        "activo": true,
+        "direccion": {
+          "calle": "Carrera 10",
+          "numero": 567,
+          "ciudad": "Caracas",
+          "pais": "Venezuela"
+        },
+        "telefonos": [
+          {
+            "tipo": "móvil",
+            "numero": "9959-95655"
+          }
+        ],
+        "hobbies": ["baile", "yoga"],
+        "casado": true
+      }
+    ]
+  }
+  

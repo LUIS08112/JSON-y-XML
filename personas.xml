@@ -1,0 +1,82 @@
+<?xml version="1.0"?>
+<personas>
+    <persona id="1">
+        <nombre>Juan Perez</nombre>
+        <edad>30</edad>
+        <email>juan.perez@example.com</email>
+        <telefono>555-1234</telefono>
+        <direccion>
+            <calle>Av. Reforma</calle>
+            <numero>100</numero>
+            <ciudad>Ciudad de México</ciudad>
+        </direccion>
+        <hobbies>
+            <hobby>Futbol</hobby>
+            <hobby>Ajedrez</hobby>
+        </hobbies>
+    </persona>
+    
+    <persona id="2">
+        <nombre>Maria Lopez</nombre>
+        <edad>25</edad>
+        <email>maria.lopez@example.com</email>
+        <ocupacion>Doctora</ocupacion>
+        <mascotas>
+            <mascota>
+                <tipo>Perro</tipo>
+                <nombre>Max</nombre>
+            </mascota>
+            <mascota>
+                <tipo>Gato</tipo>
+                <nombre>Mimi</nombre>
+            </mascota>
+        </mascotas>
+    </persona>
+    
+    <persona id="3">
+        <nombre>Carlos Gomez</nombre>
+        <telefono>555-5678</telefono>
+        <direccion>
+            <calle>Av. Insurgentes</calle>
+            <numero>250</numero>
+            <ciudad>Guadalajara</ciudad>
+        </direccion>
+    </persona>
+    
+    <persona id="4">
+        <nombre>Laura Mendez</nombre>
+        <edad>40</edad>
+        <hobbies>
+            <hobby>Pintura</hobby>
+            <hobby>Ciclismo</hobby>
+        </hobbies>
+    </persona>
+    
+    <persona id="5">
+        <nombre>Andres Ramírez</nombre>
+        <email>andres.ramirez@example.com</email>
+        <ocupacion>Ingeniero</ocupacion>
+    </persona>
+    
+    <persona id="6">
+        <nombre>Sofia Torres</nombre>
+        <edad>29</edad>
+        <telefono>555-7890</telefono>
+    </persona>
+    
+    <persona id="7">
+        <nombre>Diego Fernandez</nombre>
+        <direccion>
+            <calle>Av. Juarez</calle>
+            <numero>75</numero>
+            <ciudad>Monterrey</ciudad>
+        </direccion>
+    </persona>
+    
+    <persona id="8">
+        <nombre>Elena Rios</nombre>
+        <edad>35</edad>
+        <email>elena.rios@example.com</email>
+        <ocupacion>Abogada</ocupacion>
+    </persona>
+</personas>
